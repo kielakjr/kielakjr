@@ -1,13 +1,7 @@
 <div align="center">
 
 <h1>Hi there, I'm Mikołaj 👋</h1>
-*Building complete web applications — from database schema to UI.*
-
-<br/>
-
 </div>
-
----
 
 ### 🧑‍💻 About me
 
