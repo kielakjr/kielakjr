@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mikołaj+%F0%9F%91%8B;Full-Stack+Developer;React+%2F+Next.js+%2F+Node.js" alt="Typing SVG" />
+<h1>Hi there, I'm Mikołaj 👋</h1>
+*Building complete web applications — from database schema to UI.*
 
 <br/>
-
-**B.Sc. Computer Science · Warsaw University of Technology**
-
-*Building complete web applications — from database schema to UI.*
 
 </div>
 
