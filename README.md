@@ -53,6 +53,9 @@
       <a href="https://github.com/kielakjr/marketplace">
         <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
       </a>
+      <a href="https://marketplace-mu-ten-13.vercel.app">
+        <img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
