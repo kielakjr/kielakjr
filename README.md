@@ -1,17 +1,16 @@
 <div align="center">
 
-<h1>Hi there, I'm Mikołaj 👋</h1>
+<h1>Hi, I'm Mikołaj 👋</h1>
+
+<p>Full-stack developer. Computer Science student at Warsaw University of Technology.<br/>I build things end-to-end — from DB schema to UI. React and Next.js are my daily drivers.</p>
+
 </div>
-
-### 🧑‍💻 About me
-
-> Full-stack developer specializing in **React** and **Next.js**, with hands-on experience building complete web applications from database schema to UI. Currently pursuing a B.Sc. in Computer Science at **Warsaw University of Technology**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-| Layer | Technologies |
+| | |
 |---|---|
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
@@ -21,42 +20,33 @@
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>📊 DevTrack</h3>
-      <p>Developer study tracker with GitHub integration, activity heatmap and OAuth authentication.</p>
+      <p>Study tracker I built because spreadsheets weren't cutting it. GitHub integration, activity heatmap, OAuth.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       </p>
-      <a href="https://github.com/kielakjr/devtrack">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
-      </a>
-      <a href="https://devtrack-silk.vercel.app">
-        <img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </a>
+      <a href="https://github.com/kielakjr/devtrack"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" /></a>
+      <a href="https://devtrack-silk.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h3>🛒 Marketplace</h3>
-      <p>Full-stack e-commerce platform with role-based access, JWT auth and server-side filtering.</p>
+      <p>Full-stack e-commerce — started as a uni project, ended up actually working. Role-based access, JWT auth, server-side filtering.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <a href="https://github.com/kielakjr/marketplace">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
-      </a>
-      <a href="https://marketplace-mu-ten-13.vercel.app">
-        <img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </a>
+      <a href="https://github.com/kielakjr/marketplace"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" /></a>
+      <a href="https://marketplace-mu-ten-13.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
-
