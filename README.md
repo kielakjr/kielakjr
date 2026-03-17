@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 
----
-
 ###  About Me
 - Currently learning **Fullstack Development**
 - Interested in **Web Apps, APIs, and Backend Systems**
